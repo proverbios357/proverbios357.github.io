@@ -131,7 +131,6 @@ hamburgerMenuBreak: $breakPhone
 h1-font: Economica
 h1-font-weight: bold
 h1-font-size: 40.6pt
-hero-align-items: flex-end
 heroCaption-text-align: center
 menu-container-min-height: $menuHeight
 menu-container-min-height-phone: $menuHeightPhone
@@ -157,28 +156,15 @@ navbar-nav-display: block;
 navbar-nav-margin: 4px 0 0 0;
 navbar-nav-margin-mobile: 10px 0 0 0
 navbar-nav-anchor-color-first-child: $navLinkColor
-quote-display: none
-quote-display-phone: block
-quote-float: unset
-quote-font-size: unset
-quote-text-align: unset
-quote-width: unset
-quote-line-height: unset
-q-margin: 2rem 0 0 0
-relatedArticles-card-stock-h1-margin: 0 0 6rem 0
 scrollTarget-top: -11rem
 section-container-padding: 0
 section-container-padding-phone: 1rem 0
 section-contact-background: $borderBrown
 section-separator-container-padding-phone: 0
 sectionContact-padding: 0
-sectionRelatedArticles-padding: 8rem 0
-sectionRelatedArticles-padding-tablet: 7rem 0
-section-title-line-height: 2.8
 separator-border: 2px solid $borderBrown
-startsWithHeader-margin: 0
-startsWithHeader-margin-top: 2rem
-startsWithHeader-margin-top-phone: 0
+startsWithHeader-margin: 2rem 0 0 0
+startsWithHeader-margin-phone: 0
 startsWithHeader-font: italic 16pt OpenSans
 submit-margin: 3rem 0 0 0
 submit-margin-phone: 2rem 0 0 0
