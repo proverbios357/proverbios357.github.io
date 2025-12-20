@@ -1,0 +1,206 @@
+title: Proverbios 3:5-7
+absUrl: https://proverbios357.org
+seoTitle: Proverbios 3:57 | Aida Omeir
+tagline: Reconociendo • Confiando • Honrando
+viewport-margin: 100
+intersection-ratios: 0.5
+lang: es
+
+menuItems:
+ - Hola|hola
+ - Contacto|#contact
+ - Ediciones Anteriores|ediciones-anteriores
+
+#fonts
+##Economica
+400_normal: fonts/Economica-Regular.woff2
+400_bold: fonts/Economica-Bold.woff2
+400_italic: fonts/Economica-Italic.woff2
+
+##OpenSans
+400_normal: fonts/OpenSans-Regular.woff2
+400_italic: fonts/OpenSans-Italic.woff2
+
+#components
+default:
+ - progressIndicator
+ - scrollToTopButton
+index:
+ - progressIndicator
+ - scrollToTopButton
+
+#postProcessors
+default:
+ - CssTrimer
+index:
+ - CssTrimer
+404:
+ - CssTrimer
+
+#footer
+
+##section
+type: contact
+title: Suscríbete o Contacta
+endPoint: https://services.proverbios357.com/contact
+supports:
+ - name
+ - emailLabel
+messages:
+ - Custom~
+nameLabel: Nombre
+namePlaceholder: Tu nombre
+emailLabel: Correo electrónico
+emailPlaceholder: Tu correo electrónico
+messageLabel: Mensaje
+hint: ¿Te gustaría recibir Proverbios 3:5-7 con regularidad? Su publicación es quincenal. Suscríbete aquí.
+submitLabel: Enviar
+submitSuccess: ¡Enviado! En cuanto pueda le respondo
+submitError: Hay un error al enviar el mensaje
+
+##section
+type: copyright
+container: true
+startYear: 2026
+owner: Aida Omeir
+designedBy: Jasmin Hu
+designedByUrl: https://struckbyjoy.com
+designedByLabel: Diseñado por
+
+#css
+$bodyFont: OpenSans
+$background: #F1F1F1
+$black: #2a312e
+$borderBrown: #C7A581
+$darkBrown: #875733
+$cardColor: #D7C0A8
+$breakPhone: 767px
+$menuHeight: 150px
+$menuHeightPhone: 120px
+$sidebarBackground: #C2A689
+$red: #B84129
+$cardColor: #E1D8CE
+$navLinkColor: #F8F5F3
+
+anchor-hover-color: $red
+anchor-top-margin: calc(-$menuHeight - 2rem)
+anchor-top-margin-phone: calc(-$menuHeightPhone - 2rem)
+articleContainer-padding: 0 30% 1rem
+articleContainer-padding-tablet: 0 20% 1rem
+articleContainer-padding-phone: 0 10%
+articleContainer-container-background: unset
+articleContainer-h2-font: bold 26pt OpenSans
+articleContainer-h2-margin: 0
+articleContainer-p-font-size: 16pt
+articleContainer-p-text-indent: 3.5rem
+body-background: $background
+body-font: $bodyFont
+buttons-border: none
+buttons-container-background: $background
+buttons-container-padding: 1rem 0 2rem 0
+buttons-font: 30pt OpenSans
+buttons-margin: 0 1rem 0 0
+builder-sidebar-background: $sidebarBackground
+builder-sidebar-ul-margin-top: 3rem
+card-background-color: $borderBrown
+card-border: 1px solid $cardColor
+card-margin-phone: 0 0 1rem 0
+card-stock-container-background: $cardColor
+card-stock-container-padding: 1rem 2rem 2rem
+card-stock-h1-margin: 0.5rem 0 1rem 0
+card-stock-padding: 0
+card-stock-section-subtitle-margin: 0
+card-text-padding: 0
+contact-background-color: $cardColor
+contact-h1-font-size: 3.3rem
+contact-h1-font-size-tablet: 2.7rem
+contact-background: $borderBrown
+contact-padding: 1rem
+copyright-container-background: $borderBrown
+copyright-container-border-radius: 0
+copyright-container-padding: 0 0 2rem 0
+copyright-font: normal 12pt OpenSans
+copyright-link-display: inline
+copyright-link-hover-color: $red
+designedBy-link-font: italic 12pt OpenSans
+figcaption-font: italic 12pt OpenSans
+figcaption-margin: 0
+figure-margin: 0
+figure-margin-phone: 0 0 1rem 0
+firstElement-margin: 2rem 0 1rem 0
+firstElement-margin-phone: 0 0 0.5rem 0
+hamburger-top: 40px
+hamburgerMenuBreak: $breakPhone
+h1-font: Economica
+h1-font-weight: bold
+h1-font-size: 40.6pt
+hero-align-items: flex-end
+heroCaption-text-align: center
+menu-container-min-height: $menuHeight
+menu-container-min-height-phone: $menuHeightPhone
+menu-container-height: $menuHeight
+menu-container-height-phone: $menuHeightPhone
+menu-container-padding: 0 2rem
+menu-container-padding-phone: 10px 0 0 25px
+navbar-background: linear-gradient(to right, $darkBrown, $sidebarBackground) 0 629px
+navbar-caption-color: $navLinkColor
+navbar-caption-hover-color: $sidebarBackground
+navbar-caption-font: 46pt Economica
+navbar-caption-font-weight: normal
+navbar-caption-font-size: 46pt
+navbar-caption-font-size-phone: 37pt
+navbar-caption-width: 23rem
+navbar-font: italic 26pt Economica
+navbar-font-size: 22pt
+navbar-link-margin: -4px 0 3px 0
+navbar-link-margin-phone: 0
+navbar-link-margin-left-desktop: 3.5rem
+navbar-link-justify-content: right
+navbar-nav-display: block;
+navbar-nav-margin: 4px 0 0 0;
+navbar-nav-margin-mobile: 10px 0 0 0
+navbar-nav-anchor-color-first-child: $navLinkColor
+quote-display: none
+quote-display-phone: block
+quote-float: unset
+quote-font-size: unset
+quote-text-align: unset
+quote-width: unset
+quote-line-height: unset
+q-margin: 2rem 0 0 0
+relatedArticles-card-stock-h1-margin: 0 0 6rem 0
+scrollTarget-top: -11rem
+section-container-padding: 0
+section-container-padding-phone: 1rem 0
+section-contact-background: $borderBrown
+section-separator-container-padding-phone: 0
+sectionContact-padding: 0
+sectionRelatedArticles-padding: 8rem 0
+sectionRelatedArticles-padding-tablet: 7rem 0
+section-title-line-height: 2.8
+separator-border: 2px solid $borderBrown
+startsWithHeader-margin: 0
+startsWithHeader-margin-top: 2rem
+startsWithHeader-margin-top-phone: 0
+startsWithHeader-font: italic 16pt OpenSans
+submit-margin: 3rem 0 0 0
+submit-margin-phone: 2rem 0 0 0
+submit-width: 100%
+submit-button-background: $red
+submit-button-background-hover: #714E33
+submit-button-width: 27%
+submit-button-width-tablet: 60%
+submit-button-margin: 0 -4px
+submit-button-padding: 5px 0 9px 0
+submit-button-padding-tablet: 0
+submit-result-margin: 1rem 0;
+submit-result-font: normal 16pt OpenSans;
+tagline-color: #F3ECE6
+tagline-font: italic 20.9pt Economica
+tagline-font-size: 20.9pt
+tagline-font-size-phone: 16.6pt
+tagline-separator-border: 3px solid #714E33
+tagline-separator-margin: 12px 18px -20px
+tagline-separator-margin-phone: 6px 14px -14px
+tagline-separator-width: 321px
+tagline-separator-width-phone: 262px

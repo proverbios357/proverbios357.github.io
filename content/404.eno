@@ -1,0 +1,14 @@
+title: No podemos encontrar esa página.
+subtitle: ¿Está seguro de que la escribió correctamente?
+includeInFooter:
+ - nothing
+
+#section
+type: hero
+cssClass: fullscreen
+picture: summer3
+
+#css
+heroPadding: 5rem 0 5rem 0
+heroOpacity: 0.4
+heroOverlayColor: #3f485d

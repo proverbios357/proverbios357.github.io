@@ -1,0 +1,17 @@
+{
+	"files.exclude": {
+		".gitattributes": true,
+		".gitignore": true,
+		"server/bun.lockb": true,
+		"docs/**": false,
+		"staging/**": true
+	},
+	"search.exclude": {
+		"server/node_modules**": true,
+		"server/bun.lockb": true,
+		"docs/**": true,
+		"staging/**": true
+	},
+	"search.useGlobalIgnoreFiles": false,
+	"bun.runtime": "node_modules/bun/bin/bun"
+}
