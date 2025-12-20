@@ -5,6 +5,7 @@ tagline: Reconociendo • Confiando • Honrando
 viewport-margin: 100
 intersection-ratios: 0.5
 lang: es
+sitewideLinksEnabled: false
 
 menuItems:
  - Hola|hola
