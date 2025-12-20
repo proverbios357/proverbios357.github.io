@@ -110,11 +110,7 @@ card-stock-container-background: $cardColor
 card-stock-container-padding: 1rem 2rem 2rem
 card-stock-h1-margin: 0.5rem 0 1rem 0
 card-stock-padding: 0
-card-stock-section-subtitle-margin: 0
 card-text-padding: 0
-contact-background-color: $cardColor
-contact-h1-font-size: 3.3rem
-contact-h1-font-size-tablet: 2.7rem
 contact-background: $borderBrown
 contact-padding: 1rem
 copyright-container-background: $borderBrown
