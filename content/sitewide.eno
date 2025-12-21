@@ -163,6 +163,7 @@ section-contact-background: $borderBrown
 section-separator-container-padding-phone: 0
 sectionContact-padding: 0
 separator-border: 2px solid $borderBrown
+separator-margin: 1rem 0
 startsWithHeader-margin: 2rem 0 0 0
 startsWithHeader-margin-phone: 0
 startsWithHeader-font: italic 16pt OpenSans
