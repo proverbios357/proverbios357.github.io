@@ -95,14 +95,14 @@ articleContainer-h2-margin: 0
 articleContainer-p-font-size: 16pt
 articleContainer-p-text-indent: 3.5rem
 body-background: $background
-body-font: $bodyFont
-buttons-border: none
+body-font-family: $bodyFont
 buttons-container-background: $background
 buttons-container-padding: 1rem 0 2rem 0
-buttons-font: 30pt OpenSans
-buttons-margin: 0 1rem 0 0
+buttons-button-border: none
+buttons-button-font: 30pt OpenSans
+buttons-button-margin: 0 1rem 0 0
 builder-sidebar-background: $sidebarBackground
-builder-sidebar-ul-margin-top: 3rem
+builder-sidebar-ul-margin: 3rem 0 0 0
 card-background-color: $borderBrown
 card-border: 1px solid $cardColor
 card-margin-phone: 0 0 1rem 0
@@ -120,8 +120,8 @@ copyright-font: normal 12pt OpenSans
 copyright-link-display: inline
 copyright-link-hover-color: $red
 designedBy-link-font: italic 12pt OpenSans
-figcaption-font: italic 12pt OpenSans
-figcaption-margin: 0
+caption-font: italic 12pt OpenSans
+caption-margin: 0
 figure-margin: 0
 figure-margin-phone: 0 0 1rem 0
 firstElement-margin: 2rem 0 1rem 0
@@ -131,13 +131,16 @@ hamburgerMenuBreak: $breakPhone
 h1-font: Economica
 h1-font-weight: bold
 h1-font-size: 40.6pt
-heroCaption-text-align: center
 menu-container-min-height: $menuHeight
 menu-container-min-height-phone: $menuHeightPhone
 menu-container-height: $menuHeight
 menu-container-height-phone: $menuHeightPhone
 menu-container-padding: 0 2rem
 menu-container-padding-phone: 10px 0 0 25px
+navbar-a-margin: -4px 0 3px 0
+navbar-a-margin-phone: 0
+navbar-a-margin-left-desktop: 3.5rem
+navbar-a-justify-content: right
 navbar-background: linear-gradient(to right, $darkBrown, $sidebarBackground) 0 629px
 navbar-caption-color: $navLinkColor
 navbar-caption-hover-color: $sidebarBackground
@@ -148,10 +151,6 @@ navbar-caption-font-size-phone: 37pt
 navbar-caption-width: 23rem
 navbar-font: italic 26pt Economica
 navbar-font-size: 22pt
-navbar-link-margin: -4px 0 3px 0
-navbar-link-margin-phone: 0
-navbar-link-margin-left-desktop: 3.5rem
-navbar-link-justify-content: right
 navbar-nav-display: block;
 navbar-nav-margin: 4px 0 0 0;
 navbar-nav-margin-mobile: 10px 0 0 0
