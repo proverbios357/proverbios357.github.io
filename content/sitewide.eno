@@ -137,10 +137,12 @@ menu-container-height: $menuHeight
 menu-container-height-phone: $menuHeightPhone
 menu-container-padding: 0 2rem
 menu-container-padding-phone: 10px 0 0 25px
+navbar-a-font: italic 26pt Economica
 navbar-a-margin: -4px 0 3px 0
-navbar-a-margin-phone: 0
+navbar-a-margin-phone: 0 0 1rem 0
 navbar-a-margin-left-desktop: 3.5rem
 navbar-a-justify-content: right
+navbar-a-justify-content-phone: center
 navbar-background: linear-gradient(to right, $darkBrown, $sidebarBackground) 0 629px
 navbar-caption-color: $navLinkColor
 navbar-caption-hover-color: $sidebarBackground
@@ -149,8 +151,6 @@ navbar-caption-font-weight: normal
 navbar-caption-font-size: 46pt
 navbar-caption-font-size-phone: 37pt
 navbar-caption-width: 23rem
-navbar-font: italic 26pt Economica
-navbar-font-size: 22pt
 navbar-nav-display: block;
 navbar-nav-margin: 4px 0 0 0;
 navbar-nav-margin-mobile: 10px 0 0 0
