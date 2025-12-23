@@ -138,6 +138,7 @@ menu-container-height-phone: $menuHeightPhone
 menu-container-padding: 0 2rem
 menu-container-padding-phone: 10px 0 0 25px
 navbar-a-font: italic 26pt Economica
+navbar-a-font-size-phone: 27pt
 navbar-a-margin: -4px 0 3px 0
 navbar-a-margin-phone: 0 0 1rem 0
 navbar-a-margin-left-desktop: 3.5rem
