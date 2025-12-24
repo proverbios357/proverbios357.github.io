@@ -12,6 +12,14 @@ menuItems:
  - Contacto|#contact
  - Ediciones Anteriores|ediciones-anteriores
 
+# mdSourceFile
+site: Proverbios 3: 5-7
+subtitle: ^# \*\*(.+)\*\*  $
+title: ^## (.+)  $
+body: ^# !\[\]\[image2\]\n\n(.|\n)+\n\n^\*Aida
+quote: ^(\*(.|\n)+ \(.+\\\)\*) $
+image: ^\[image2\]: <(.+)>
+
 #fonts
 ##Economica
 400_normal: fonts/Economica-Regular.woff2
@@ -126,6 +134,8 @@ figure-margin: 0
 figure-margin-phone: 0 0 1rem 0
 firstElement-margin: 2rem 0 1rem 0
 firstElement-margin-phone: 0 0 0.5rem 0
+footnote-font-size: 1.2rem
+footnote-padding-inline-start: 22px
 hamburger-top: 40px
 hamburgerMenuBreak: $breakPhone
 h1-font: Economica
