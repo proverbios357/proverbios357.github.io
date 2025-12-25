@@ -14,12 +14,14 @@ menuItems:
  - Ediciones Anteriores|ediciones-anteriores
 
 # mdSourceFile
+template: eno.template
+filenameTemplate: ${date}-${title}.eno
 site: Proverbios 3: 5-7
 subtitle: ^# \*\*(.+)\*\*  $
 title: ^## (.+)  $
-body: ^# !\[\]\[image2\]\n\n(.|\n)+\n\n^\*Aida
-quote: ^(\*(.|\n)+ \(.+\\\)\*) $
-image: ^\[image2\]: <(.+)>
+body: ^# !\[\]\[image2\]\n\n((.|\n)+)\n\n^\[image1\]: <
+signature: \*Aida C. Omeir\* *\n\*Creciendo en El\* *
+signatureReplace: @[signature](Aida C. Omeir|Creciendo en El)
 
 #fonts
 ##Economica
@@ -103,6 +105,7 @@ articleContainer-h2-font: bold 26pt OpenSans
 articleContainer-h2-margin: 0
 articleContainer-p-font-size: 16pt
 articleContainer-p-text-indent: 3.5rem
+blockQuote-font-style: italic
 body-background: $background
 body-font-family: $bodyFont
 buttons-container-background: $background
@@ -135,8 +138,8 @@ figure-margin: 0
 figure-margin-phone: 0 0 1rem 0
 firstElement-margin: 2rem 0 1rem 0
 firstElement-margin-phone: 0 0 0.5rem 0
-footnote-font-size: 1.2rem
-footnote-padding-inline-start: 22px
+footnotes-list-padding-inline-start: 22px
+footnote-item-font-size: 1.2rem
 hamburger-top: 40px
 hamburgerMenuBreak: $breakPhone
 h1-font: Economica

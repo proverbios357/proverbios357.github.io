@@ -1,0 +1,9 @@
+template: article.template
+title: ${title}
+subtitle: ${subtitle}
+picture: ${picture}
+date: ${date_dd}/${date_mm}/${date_yyyy}
+
+-- body
+${body}
+-- body
