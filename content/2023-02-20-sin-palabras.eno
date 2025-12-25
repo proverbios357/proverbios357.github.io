@@ -1,24 +1,8 @@
+template: article.template
 title: Sin palabras
-subtitle: 20/02/2023 Escuchando
+subtitle: Escuchando
 picture: winter6
-
-#section
-type: article
-
--- body
-@[header](20/02/2023|h3)
-
-@[header](Escuchando|h1)
-
-@[header](Sin palabras)
-
-@[div](separator)
-
-@[image](winter6|||)
--- body
-
-#section
-type: article
+date: 20/02/2023
 
 -- body
 Durante el receso de una actividad a la que asistí el año pasado en la iglesia donde me congrego, decidí sentarme en una banca que está en la entrada principal en la parte de afuera del edificio. Me senté para comerme una barra de granola. Era una soleada mañana de verano y no recuerdo si era martes o miércoles. Un día de trabajo normal. En la avenida principal que da a la entrada de la iglesia, los carros iban y venían. Cuando empecé a comer tranquilamente mi barra de granola, un camión de UPS, la empresa  que reparte correspondencia, estacionó frente a la entrada principal. 
@@ -92,16 +76,4 @@ Hoy por hoy, creo que necesitamos mujeres como la señora repartidora de UPS que
 Dios permita que en su infinita misericordia y desde nos encontremos y podamos disfrutar de su amor y el gozo de la salvación todos los días. Y lo compartamos con otros. Este mundo lo necesita urgentemente.
 
 @[signature](Aida C. Omeir|Creciendo en El)
-
-@[div](separator)
 -- body
-
-# section
-type: cards
-title: Ediciones Anteriores
-titleUrl: ediciones-anteriores
-
-items:
- - 2023-02-13-el-único-libro
- - 2023-02-06-abriendo-mi-mano
- - 2023-01-30-resoluciones-perdurables

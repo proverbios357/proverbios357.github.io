@@ -1,24 +1,8 @@
+template: article.template
 title: Abriendo mi mano
-subtitle: 06/02/2023 Soltando
+subtitle: Soltando
 picture: winter4
-
-#section
-type: article
-
--- body
-@[header](06/02/2023|h3)
-
-@[header](Soltando|h1)
-
-@[header](Abriendo mi mano)
-
-@[div](separator)
-
-@[image](winter4|||)
--- body
-
-#section
-type: article
+date: 06/02/2023
 
 -- body
 Recuerdo perfectamente el día en que entregué mi puesto de secretaria en el club de niños de la iglesia donde mi hija participaba. En cuanto venimos a Canadá, nos conectamos con este maravilloso grupo del que ella era miembro cuando vivíamos en Ecuador. Cuando supimos que AWANA (nombre del club) se realizaba en la iglesia a la que asistíamos aquí, no dudé en registrarla. Mi hija, de escasos seis años en ese entonces, me preguntó si estaría con ella durante la actividad del club. Confieso que, a regañadientes, le dije que también participaría y, al final, acabé voluntariándome con su grupo. ¡Qué bendición más grande\! 
@@ -60,14 +44,4 @@ Ese joven rico no fue capaz de soltar…y de confiar en Jesús. Podrían ser pos
 @[divClose](blockQuote)
 
 @[signature](Aida C. Omeir|Creciendo en El)
-
-@[div](separator)
 -- body
-
-# section
-type: cards
-title: Ediciones Anteriores
-titleUrl: ediciones-anteriores
-
-items:
- - 2023-01-30-resoluciones-perdurables

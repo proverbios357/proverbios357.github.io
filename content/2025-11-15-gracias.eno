@@ -1,24 +1,8 @@
+template: article.template
 title: Gracias
-subtitle: 15/11/2025 Reflexionando
+subtitle: Reflexionando
 picture: winter2@Nathan Ziemanski@Unsplash
-
-#section
-type: article
-
--- body
-@[header](15/11/2025|h3)
-
-@[header](Reflexionando|h1)
-
-@[header](Gracias)
-
-@[div](separator)
-
-@[image](winter2@Nathan Ziemanski@Unsplash|||Foto por Nathan Ziemanski en Unsplash)
--- body
-
-#section
-type: article
+date: 15/11/2025
 
 -- body
 De pronto, en estos días, me encontré haciendo una pequeña investigación sobre la palabra “gracias”, o mejor dicho, sobre el acto de agradecer. Estudiando y meditando sobre un verso bíblico en particular, la palabra “gracias” que aparece en él parecía escrita en letras más grandes que el resto del texto. Como si buscase atención.  
@@ -70,16 +54,4 @@ Este verso aún me da vueltas en la cabeza, y seguro lo seguirá haciendo por mu
 ¿Qué opinan ustedes? 
 
 @[signature](Aida C. Omeir|Creciendo en El)
-
-@[div](separator)
 -- body
-
-# section
-type: cards
-title: Ediciones Anteriores
-titleUrl: ediciones-anteriores
-
-items:
- - 2025-10-15-por-opcion
- - 2025-09-15-septiembre
- - 2025-08-15-volver

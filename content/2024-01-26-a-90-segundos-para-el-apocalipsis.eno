@@ -1,24 +1,8 @@
+template: article.template
 title: Preparándonos
-subtitle: 26/01/2024 A 90 segundos para el apocalipsis
+subtitle: A 90 segundos para el apocalipsis
 picture: winter7
-
-#section
-type: article
-
--- body
-@[header](15/12/2025|h3)
-
-@[header](Preparándonos|h1)
-
-@[header](A 90 segundos para el apocalipsis)
-
-@[div](separator)
-
-@[image](winter7|||)
--- body
-
-#section
-type: article
+date: 26/01/2024
 
 -- body
 Apenas estamos a 90 segundos del apocalipsis. Al menos eso es lo que lee el “reloj del fin del mundo”, una suerte de cálculo simbólico que, todos los años, un grupo de científicos realiza a partir de los hechos históricos más relevantes del año.   
@@ -71,16 +55,4 @@ Gracias, le damos al Padre de nuestro Señor Jesucristo por su misericordia y pe
 1. Para mayor información sobre el Reloj del Fin del Mundo puede leer aquí el artículo completo que se publica en el diario en El País: [El ‘reloj del fin del mundo’ sitúa a la humanidad a 90 segundos del apocalipsis, el peor registro de su historia | Ciencia | EL PAÍS (elpais.com)](https://elpais.com/ciencia/2024-01-23/el-reloj-del-fin-del-mundo-situa-a-la-humanidad-a-90-segundos-del-apocalipsis.html)
 
 @[divClose](footnote|footnote1)
-
-@[div](separator)
 -- body
-
-# section
-type: cards
-title: Ediciones Anteriores
-titleUrl: ediciones-anteriores
-
-items:
- - 2023-02-20-sin-palabras
- - 2023-02-13-el-único-libro
- - 2023-02-06-abriendo-mi-mano

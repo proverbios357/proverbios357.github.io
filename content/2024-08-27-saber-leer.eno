@@ -1,24 +1,8 @@
+template: article.template
 title: Saber leer
-subtitle: 27/08/2024 Discerniendo
+subtitle: Discerniendo
 picture: summer2
-
-#section
-type: article
-
--- body
-@[header](27/08/2024|h3)
-
-@[header](Discerniendoa|h1)
-
-@[header](Saber leer)
-
-@[div](separator)
-
-@[image](summer2|||)
--- body
-
-#section
-type: article
+date: 27/08/2024
 
 -- body
 “¿Qué vas a hacer hoy por la noche? “ me preguntó mi amiga Sue cuando nos vimos en el pasillo de la oficina esa tarde. Hice un rápido repaso mental de mi agenda de la noche, pero en el fondo ya tenía mi respuesta: cualquier cosa que fuera no queria ir. Estaba cansada y apenas era miércoles. 
@@ -61,16 +45,4 @@ Después de ese taller en el que participé ( el cual les conté al inicio), emp
 Repasemos esas maravillosas promesas que Dios nos regala a través de Su Palabra, para maravillarnos de su Amor y Misericordia. 
 
 @[signature](Aida C. Omeir|Creciendo en El)
-
-@[div](separator)
 -- body
-
-# section
-type: cards
-title: Ediciones Anteriores
-titleUrl: ediciones-anteriores
-
-items:
- - 2024-01-26-a-90-segundos-para-el-apocalipsis
- - 2023-02-20-sin-palabras
- - 2023-02-13-el-único-libro

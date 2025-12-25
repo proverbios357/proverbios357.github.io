@@ -1,24 +1,8 @@
+template: article.template
 title: Por opcion
-subtitle: 15/10/2025 Escogiendo
+subtitle: Escogiendo
 picture: fall1@Olya Adamovich@Pixabay
-
-#section
-type: article
-
--- body
-@[header](15/10/2025|h3)
-
-@[header](Escogiendo|h1)
-
-@[header](Por opcion)
-
-@[div](separator)
-
-@[image](fall1@Olya Adamovich@Pixabay|||Foto por Olya Adamovich en Pixabay)
--- body
-
-#section
-type: article
+date: 15/10/2025
 
 -- body
 Una de las personas que más admiro es mi hija adulta. Desde niña, demostró ser muy resiliente ante los muchos cambios que nos han tocado vivir como familia. Además, es muy determinada en sus decisiones y pocas veces se da por vencida. Desde que estudiaba primaria, mencionó su interés por las ciencias médicas. Cuando ya se encontraba en secundaria, cerca de graduarse, nos comentó que quería estudiar enfermería. Le pregunté en diferentes ocasiones: “¿Estás segura?” y le recomendé que se tomara un tiempo para pensarlo, incluso que se tomara un año haciendo otra cosa mientras decidía. 
@@ -54,16 +38,4 @@ Jesús lo hizo en la cruz del Calvario. Él optó por sufrir en nuestro nombre p
 No lo parece, pero ya estamos muy cerca de concluir el año 2025\.  ¿Cuáles han sido sus opciones “a pesar de todo”? Cada mañana es un regalo y un tiempo para escoger con sabiduría. ¡Pero la sabiduría de Dios\!
 
 @[signature](Aida C. Omeir|Creciendo en El)
-
-@[div](separator)
 -- body
-
-# section
-type: cards
-title: Ediciones Anteriores
-titleUrl: ediciones-anteriores
-
-items:
- - 2025-09-15-septiembre
- - 2025-08-15-volver
- - 2025-03-31-mas-allá-de-la-promesa

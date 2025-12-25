@@ -1,24 +1,8 @@
+template: article.template
 title: Mas allá de la promesa
-subtitle: 31/03/2025 Buscadores
+subtitle: Buscadores
 picture: spring5
-
-#section
-type: article
-
--- body
-@[header](31/03/2025|h3)
-
-@[header](Mas allá de la promesa|h1)
-
-@[header](Buscadores)
-
-@[div](separator)
-
-@[image](spring5|||)
--- body
-
-#section
-type: article
+date: 31/03/2025
 
 -- body
 Concluí hace unos meses la lectura de un libro llamado *The Spirit Filled-Life (*si mi búsqueda en Google es correcta, en español es *La* *maravillosa vida llena* *del Espíritu,* pero si no es así, por favor alguien me corrige*)* del pastor norteamericano Charles Stanley. Hay temas de ese libro que me impactaron más que otros, aunque en general el libro es una joya. Lo recomiendo si tienen la oportunidad de leerlo. 
@@ -66,16 +50,4 @@ Por experiencia descubro que en mi relación con Dios \- como toda relación per
 Dejemos que el Espíritu Santo nos sorprenda a través de su Palabra en nuestra relación constante con Él, buscando su rostro y su carácter con un corazón dispuesto a permitirle a El que nos cambie, más allá de la promesa\! 
 
 @[signature](Aida C. Omeir|Creciendo en El)
-
-@[div](separator)
 -- body
-
-# section
-type: cards
-title: Ediciones Anteriores
-titleUrl: ediciones-anteriores
-
-items:
- - 2024-12-11-me-llamo-edward
- - 2024-12-10-cambiando-de-opinión
- - 2024-12-06-un-pensamiento-de-dios

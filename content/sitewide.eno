@@ -6,6 +6,7 @@ viewport-margin: 100
 intersection-ratios: 0.5
 lang: es
 sitewideLinksEnabled: false
+pictureCaptionTemplate: Foto par ${photographer} en ${site}
 
 menuItems:
  - Hola|hola

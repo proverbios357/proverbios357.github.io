@@ -1,24 +1,8 @@
+template: article.template
 title: Cambiando de opinión
-subtitle: 10/12/2024 Renovando
+subtitle: Renovando
 picture: winter4
-
-#section
-type: article
-
--- body
-@[header](10/12/2024|h3)
-
-@[header](Renovando|h1)
-
-@[header](Cambiando de opinión)
-
-@[div](separator)
-
-@[image](winter4|||)
--- body
-
-#section
-type: article
+date: 10/12/2024
 
 -- body
 Dios sabe que algunas lágrimas que he derramado en mi vida están relacionadas con una ecuación matemática. Y parece ser que no soy la única, pues escuché una broma hace un par de años en la cual se pregunta cuál es el libro que más te ha hecho llorar, y la respuesta era…el *Álgebra de Baldor*. Me puse a reflexionar, y recordé que a pesar de todo, no era tan mala en algebra.   
@@ -82,16 +66,4 @@ De manera, que renovar mi mente en Él no necesariamente es para comprender todo
 Ciertamente dos más dos siempre será cuatro, pero ahora hay algo en mí que me permite ver esa y muchas ecuaciones matemáticas con otros ojos. Permitamos también que el Espíritu Santo renueve nuestra mente para vivir, sentir y compartir el mundo como Él lo mira. Es increíble, ¿verdad?
 
 @[signature](Aida C. Omeir|Creciendo en El)
-
-@[div](separator)
 -- body
-
-# section
-type: cards
-title: Ediciones Anteriores
-titleUrl: ediciones-anteriores
-
-items:
- - 2024-12-06-un-pensamiento-de-dios
- - 2024-08-27-saber-leer
- - 2023-02-20-sin-palabras

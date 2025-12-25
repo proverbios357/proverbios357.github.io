@@ -1,24 +1,8 @@
+template: article.template
 title: Septiembre
-subtitle: 15/09/2025 Renovando
+subtitle: Renovando
 picture: fall2@Charis Gegelman@Unsplash
-
-#section
-type: article
-
--- body
-@[header](15/09/2025|h3)
-
-@[header](Renovando|h1)
-
-@[header](Septiembre)
-
-@[div](separator)
-
-@[image](fall2@Charis Gegelman@Unsplash|||Foto por Charis Gegelman en Unsplash)
--- body
-
-#section
-type: article
+date: 15/09/2025
 
 -- body
 Septiembre son las fiestas patrias. Es el sonido de las bandas de guerra practicando para los recorridos tradicionales que conmemoran estas fiestas. Son vacaciones de medio año. Al menos así fue para mí hace muchos años, aunque mi memoria emocional lo tiene presente todo el tiempo. Desde preescolar hasta la universidad, mi ciclo académico iniciaba en marzo y concluía en noviembre o a principios de diciembre. A pesar de que lo sabía —no es lo mismo que vivirlo—, en muchos lugares la vida no es tan lineal.  Para otros, todo vuelve a empezar en septiembre. 
@@ -86,16 +70,4 @@ Leamos a Pablo en Efesios:
 Si han leído hasta aquí, les hago la siguiente pregunta: ¿Podrían hacer un inventario de todo lo “nuevo” que Dios ha hecho o está haciendo en su vida , a pesar de la circunstancia o estación de vida que estén viviendo? En mi caso, ya inicié mi inventario, pues la novedad de Dios no se limita a que mis actividades regulares comiencen en enero (como estaba acostumbrada) o en septiembre (como vivo ahora). Unida a Cristo, todo es nuevo siempre. 
 
 @[signature](Aida C. Omeir|Creciendo en El)
-
-@[div](separator)
 -- body
-
-# section
-type: cards
-title: Ediciones Anteriores
-titleUrl: ediciones-anteriores
-
-items:
- - 2025-08-15-volver
- - 2025-03-31-mas-allá-de-la-promesa
- - 2024-12-11-me-llamo-edward

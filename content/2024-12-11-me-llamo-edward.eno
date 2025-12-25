@@ -1,24 +1,8 @@
+template: article.template
 title: Me llamo Edward
-subtitle: 11/12/2024 Caminando
+subtitle: Caminando
 picture: winter3@Joshua Hoehne@Unsplash
-
-#section
-type: article
-
--- body
-@[header](11/12/2024|h3)
-
-@[header](Caminando|h1)
-
-@[header](Me llamo Edward)
-
-@[div](separator)
-
-@[image](winter3@Joshua Hoehne@Unsplash|||Foto por Joshua Hoehne en Unsplash)
--- body
-
-#section
-type: article
+date: 11/12/2024
 
 -- body
 Una sonrisa tan limpia y alegre que no recuerdo cuándo fue la última vez que vi una similar. Calculo que pasa de los sesenta años y creo que es un hombre alto, pero delgado. Blanco, y a pesar de que su barba no es tan hermosa como la de Papá Noel, no parece descuidada.  
@@ -66,16 +50,4 @@ Esperanza. Eso es lo que todos queremos, y podemos encontrarla en Jesucristo.
 Le pido al Señor que, juntas, reflexionemos sobre cómo podemos vivir una Navidad enfocadas en el hecho trascendental de que nuestro Salvador nació para traernos la esperanza que habíamos perdido, y no dejarnos llevar por el ruido que el mundo ha creado para que no celebremos esta verdad con alegría.
 
 @[signature](Aida C. Omeir|Creciendo en El)
-
-@[div](separator)
 -- body
-
-# section
-type: cards
-title: Ediciones Anteriores
-titleUrl: ediciones-anteriores
-
-items:
- - 2024-12-10-cambiando-de-opinión
- - 2024-12-06-un-pensamiento-de-dios
- - 2024-08-27-saber-leer

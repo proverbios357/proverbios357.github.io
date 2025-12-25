@@ -1,24 +1,8 @@
+template: article.template
 title: Volver
-subtitle: 15/08/2025 Reflexionando
+subtitle: Reflexionando
 picture: summer4@João Ferrão@Unsplash
-
-#section
-type: article
-
--- body
-@[header](15/08/2025|h3)
-
-@[header](Reflexionando|h1)
-
-@[header](Volver)
-
-@[div](separator)
-
-@[image](summer4@João Ferrão@Unsplash|||Foto por João Ferrão en Unsplash)
--- body
-
-#section
-type: article
+date: 15/08/2025
 
 -- body
 Un día de estos leí que Carlos Gardel cumpliría noventa años desde su fallecimiento. No me lo podía creer, porque aún recuerdo cuando lo escuché por primera vez y me enamoré de su voz y de sus canciones. Se me olvidó que, cuando llegué a escucharlo, fue a través de videos grabados en blanco y negro que la estación de televisión transmitía en ese entonces. 
@@ -104,16 +88,4 @@ De pronto, a Pedro se le había olvidado que ya Jesús le había adelantado cuá
 Volver. Volver siempre es una opción, dependiendo de adónde, a quién y con qué objetivo. La nostalgia de lo que fue no sostiene ningún proyecto.  Más bien atrasa. Y considero que, para estar segura de todo, nuestra mejor opción ante cualquier circunstancia es volver a Cristo. Él sostiene, guía y restaura. Su misericordia es tan grande que no llegamos a comprenderla.  Yo recuerdo, de tanto en tanto, que Egipto nunca fue una opción.  Para Él sea toda la gloria. 
 
 @[signature](Aida C. Omeir|Creciendo en El)
-
-@[div](separator)
 -- body
-
-# section
-type: cards
-title: Ediciones Anteriores
-titleUrl: ediciones-anteriores
-
-items:
- - 2025-03-31-mas-allá-de-la-promesa
- - 2024-12-11-me-llamo-edward
- - 2024-12-10-cambiando-de-opinión

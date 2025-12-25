@@ -1,24 +1,8 @@
+template: article.template
 title: Resoluciones perdurables
-subtitle: 30/01/2023 Entrenando
+subtitle: Entrenando
 picture: winter3@Joshua Hoehne@Unsplash
-
-#section
-type: article
-
--- body
-@[header](30/01/2023|h3)
-
-@[header](Entrenando|h1)
-
-@[header](Resoluciones perdurables)
-
-@[div](separator)
-
-@[image](winter3@Joshua Hoehne@Unsplash|||Foto por Joshua Hoehne en Unsplash)
--- body
-
-#section
-type: article
+date: 30/01/2023
 
 -- body
 Para finales de enero, las estadísticas indican que el ochenta por ciento de las personas que se propusieron resoluciones de cambio para el año nuevo  ya las abandonaron. La pausa de Navidad, que entusiasma a muchos para mejorar o sustituir hábitos poco saludables, suele ahogarse en medio de la vuelta a la rutina del trabajo. O, en algún momento, se olvida el sentido de por qué se hizo el cambio. O se pretendía hacerlo. 
@@ -62,14 +46,4 @@ Este fin de semana, mientras mi esposo y mi hijo esquiaban, yo los acompañé a 
 Le pido al Señor que cualquier resolución de cambio pendiente en tu vida sea Él quien te guíe para que te transforme y modele, completando lo que tiene planeado para ti en esta “carrera”, todo de acuerdo con su propósito y para su Gloria. ¡No hay entrenamiento fácil, pero la constancia lo facilita y nos mantiene conectados a Él\!
 
 @[signature](Aida C. Omeir|Creciendo en El)
-
-@[div](separator)
 -- body
-
-# section
-type: cards
-title: Ediciones Anteriores
-titleUrl: ediciones-anteriores
-
-items:
- - 404

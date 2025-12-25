@@ -1,24 +1,8 @@
+template: article.template
 title: El único libro
-subtitle: 13/02/2023 Aprendiendo
+subtitle: Aprendiendo
 picture: winter5
-
-#section
-type: article
-
--- body
-@[header](13/02/2023|h3)
-
-@[header](Aprendiendo|h1)
-
-@[header](El único libro)
-
-@[div](separator)
-
-@[image](winter5|||)
--- body
-
-#section
-type: article
+date: 13/02/2023
 
 -- body
 Cierro los ojos y no solo lo recuerdo, sino que lo siento. El sol abrasador de Managua, a la una y treinta de la tarde, en pleno verano. Un sol que pica la piel, y peor si hay viento que levanta el polvo y te golpea la cara.  Tengo diecisiete años y voy caminando sobre la acera de un barrio marginal en donde apenas hay árboles en la vereda. O sea, el sol se siente con fuerza.  A pesar de ello, estoy entusiasmada porque es mi primera experiencia como profesora. 
@@ -79,7 +63,7 @@ Seguramente David sintió esa necesidad de pedirle al Padre Celestial que examin
 
 @[divOpen](blockQuote)
 
-***23** “**Oh Dios,*  
+**23** “**Oh Dios,*  
 *examíname, reconoce mi corazón;*  
 *ponme a prueba, reconoce mis pensamientos;*  
 **24** mira si voy por el camino del mal,*  
@@ -92,15 +76,4 @@ Seguramente David sintió esa necesidad de pedirle al Padre Celestial que examin
 Pues mientras más caminamos con Él y le reconocemos en nuestros caminos, el propio Dios nos abrirá *los ojos del corazón* (Efesios 1:18) para que descubramos las riquezas del Reino de los Cielos. Aspiro a tener esa determinación santa que conocí de primera mano con esas maravillosas mujeres que alfabeticé hace muchos años, y que hoy comparto con ustedes.
 
 @[signature](Aida C. Omeir|Creciendo en El)
-
-@[div](separator)
 -- body
-
-# section
-type: cards
-title: Ediciones Anteriores
-titleUrl: ediciones-anteriores
-
-items:
- - 2023-02-06-abriendo-mi-mano
- - 2023-01-30-resoluciones-perdurables

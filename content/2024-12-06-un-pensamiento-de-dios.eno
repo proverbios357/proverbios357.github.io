@@ -1,24 +1,8 @@
+template: article.template
 title: Un pensamiento de Dios
-subtitle: 06/12/2024 Eternidad
+subtitle: Eternidad
 picture: winter5
-
-#section
-type: article
-
--- body
-@[header](06/12/2024|h3)
-
-@[header](Eternidad|h1)
-
-@[header](Un pensamiento de Dios)
-
-@[div](separator)
-
-@[image](winter5|||)
--- body
-
-#section
-type: article
+date: 06/12/2024
 
 -- body
 De pronto, dirigí la mirada al escenario. No tengo idea de cuándo lo colocaron, pues no lo había visto antes, pero en la pared del fondo se leía la frase:  "Somos un pensamiento de Dios, una idea ilimitada de libertad". Me encantó. No le puse más atención, pues tenía que ensayar rápidamente para la noche. 
@@ -73,16 +57,4 @@ Ya saben cómo es que uno lee un pasaje bíblico varias veces, pero de pronto el
 @[divClose](blockQuote)
 
 @[signature](Aida C. Omeir|Creciendo en El)
-
-@[div](separator)
 -- body
-
-# section
-type: cards
-title: Ediciones Anteriores
-titleUrl: ediciones-anteriores
-
-items:
- - 2024-08-27-saber-leer
- - 2023-02-20-sin-palabras
- - 2023-02-13-el-único-libro

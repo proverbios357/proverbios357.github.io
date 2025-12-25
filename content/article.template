@@ -1,0 +1,35 @@
+title: ${title}
+subtitle: ${date} ${subtitle}
+picture: ${picture}
+
+#section
+type: article
+
+-- body
+@[header](${date}|h3)
+
+@[header](${subtitle}|h1)
+
+@[header](${title})
+
+@[div](separator)
+
+@[image](${picture}|||${pictureCaption})
+-- body
+
+#section
+type: article
+
+-- body
+${body}
+
+@[div](separator)
+-- body
+
+# section
+type: cards
+title: Ediciones Anteriores
+titleUrl: ediciones-anteriores
+
+items:
+ - articles.slice(-3)

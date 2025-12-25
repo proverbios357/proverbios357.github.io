@@ -1,24 +1,8 @@
+template: article.template
 title: Como los pastores
-subtitle: 15/12/2025 Descubriendo
+subtitle: Descubriendo
 picture: winter1@Olya Adamovich@Pixabay
-
-#section
-type: article
-
--- body
-@[header](15/12/2025|h3)
-
-@[header](Descubriendo|h1)
-
-@[header](Como los pastores)
-
-@[div](separator)
-
-@[image](winter1@Olya Adamovich@Pixabay|||Foto por Olya Adamovich en Pixabay)
--- body
-
-#section
-type: article
+date: 15/12/2025
 
 -- body
 Siempre disfruté el mes de diciembre por razones obvias: fin del año escolar, ambiente festivo, regalos y vacaciones.  Sin embargo, a pesar de conocer y seguir a Cristo, con el paso de los años no recuerdo en qué momento entré en la vorágine de actividades que este mes suele ofrecer.  Por tanto, la razón por la cual estamos “celebrando”  se ha ido diluyendo entre actividad y actividad, limitándose muchísimo al motivo original de la festividad.
@@ -91,16 +75,4 @@ Se lee y se escucha sencillo, ¿verdad? Pero es así, y no la vorágine de activ
 Espero que esta fiesta de Navidad la reciban con el mismo asombro de los pastores, su decisión de buscar a su Salvador en cuanto recibieron la noticia, y compartirla con otros como el mayor regalo que todos podemos aceptar si así lo deseamos. 
 
 @[signature](Aida C. Omeir|Creciendo en El)
-
-@[div](separator)
 -- body
-
-# section
-type: cards
-title: Ediciones Anteriores
-titleUrl: ediciones-anteriores
-
-items:
- - 2025-11-15-gracias
- - 2025-10-15-por-opcion
- - 2025-09-15-septiembre
