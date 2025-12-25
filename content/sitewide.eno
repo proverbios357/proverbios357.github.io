@@ -17,8 +17,8 @@ menuItems:
 template: eno.template
 filenameTemplate: ${date}-${title}.eno
 site: Proverbios 3: 5-7
-subtitle: ^# \*\*(.+)\*\*  $
-title: ^## (.+)  $
+subtitle: ^# \*\*(.+)\*\* *$
+title: ^## (.+) *$
 body: ^# !\[\]\[image2\]\n\n((.|\n)+)\n\n^\[image1\]: <
 signature: \*Aida C. Omeir\* *\n\*Creciendo en El\* *
 signatureReplace: @[signature](Aida C. Omeir|Creciendo en El)
