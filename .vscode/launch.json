@@ -18,14 +18,25 @@
 		"internalConsoleOptions": "openOnSessionStart"
 	  },
 	  {
-		"name": "Debug Bun",
+		"name": "Test with Bun (fails on loading Sharp)",
 		"type": "bun",
-		"args": ["run"],
+		"args": [],
 		"request": "launch",
-		"program": "${input:chooseFile}",
 		"cwd": "${workspaceRoot}/server",
+		"program": "${fileBasenameNoExtension}.test.ts",
 		"stopOnEntry": false,
-		"internalConsoleOptions": "openOnSessionStart"    
+		"internalConsoleOptions": "openOnSessionStart"
+	  },
+	  {
+		"name": "Build",
+		"type": "node",
+		"args": [
+		  "run",
+		  "build"
+		],
+		"request": "launch",
+		"runtimeExecutable": "bun",
+		  "cwd": "${workspaceRoot}"
 	  },
 	  {
 		"name": "Test Program",
