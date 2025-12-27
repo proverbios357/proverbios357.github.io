@@ -18,8 +18,10 @@ template: eno.template
 filenameTemplate: ${date}-${title}.eno
 site: Proverbios 3: 5-7
 subtitle: ^# \*\*(.+)\*\* *$
-title: ^## (.+) *$
-body: ^# \**!\[\]\[image2\]\**\n\n((.|\n)+)\n\n^\[image1\]: <
+title: # \*\*(.+)\*\* *\n\n(^##? (.+) *$)
+body:
+ - # \**!\[\]\[image2\]\**\n\n((.|\n)+)\n\n\[image1\]: <
+ - \*\n\n((.|\n)*)\n\n^\[image1\]: <
 signature: \*Aida C. Omeir\* *\n\*Creciendo en El\* *
 signatureReplace: @[signature](Aida C. Omeir|Creciendo en El)
 
