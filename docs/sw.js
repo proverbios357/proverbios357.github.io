@@ -1,4 +1,4 @@
-const staticCache = "Proverbios3:5-7-cache-v3";
+const staticCache = "Proverbios3:5-7-cache-v5";
 var prefetchList = ["spa","fonts/Economica-Regular.woff2","fonts/Economica-Bold.woff2","fonts/Economica-Italic.woff2","fonts/OpenSans-Regular.woff2","fonts/OpenSans-Italic.woff2","https://cdn.ampproject.org/v0.js","https://cdn.ampproject.org/v0/amp-sidebar-0.1.js","https://cdn.ampproject.org/v0/amp-animation-0.1.js","https://cdn.ampproject.org/v0/amp-position-observer-0.1.js","index"];
 var imageNames = ["winter1@Olya Adamovich@Pixabay","winter2@Nathan Ziemanski@Unsplash","fall1@Olya Adamovich@Pixabay","fall2@Charis Gegelman@Unsplash"];
 
