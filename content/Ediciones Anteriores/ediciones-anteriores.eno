@@ -1,5 +1,4 @@
 title: Ediciones Anteriores
-subtitle: Buscadores
 
 # section
 type: buttons
@@ -17,13 +16,7 @@ title: 2025
 id: 2025
 
 items:
- - 2025-12-15-como-los-pastores
- - 2025-11-15-gracias
- - 2025-10-15-por-opcion
- - 2025-09-15-septiembre
- - 2025-08-15-volver
- - 2025-04-01-mas-allá-de-la-promesa
- - 2025-03-31-esa-voz
+ - articles.startsWith('2025').reverse()
 
 # section
 type: cards
@@ -31,15 +24,7 @@ title: 2024
 id: 2024
 
 items:
- - 2024-12-11-me-llamo-edward
- - 2024-12-10-cambiando-de-opinión
- - 2024-12-06-un-pensamiento-de-dios
- - 2024-08-27-saber-leer
- - 2024-08-20-qué-hora-es
- - 2024-02-29-vamos-tarde
- - 2024-02-13-cuál-es-su-gracia
- - 2024-01-26-a-90-segundos-para-el-apocalipsis
- - 2024-01-20-a-alguien-se-le-olvidó-echar-sal
+ - articles.startsWith('2024').reverse()
 
 # section
 type: cards
@@ -47,10 +32,7 @@ title: 2023
 id: 2023
 
 items:
- - 2023-02-20-sin-palabras
- - 2023-02-13-el-único-libro
- - 2023-02-06-abriendo-mi-mano
- - 2023-01-30-resoluciones-perdurables
+ - articles.startsWith('2023').reverse()
 
 # css
 separator-margin: 1rem 0 0 0
